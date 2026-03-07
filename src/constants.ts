@@ -22,7 +22,7 @@ export const SHARE_LINKS: Social[] = [
   {
     name: "X",
     href: "https://x.com/intent/post?url=",
-    linkTitle: `Share this post on X`,
+    linkTitle: `Xでシェア`,
     icon: IconBrandX,
   },
 ] as const;
