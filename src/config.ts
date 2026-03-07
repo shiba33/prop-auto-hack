@@ -3,7 +3,7 @@ export const SITE = {
   author: "はちまき",
   profile: "https://x.com/hachi_ni_isan",
   desc: "プロップファームをEA（自動売買）で攻略する実践記録。MT5・cTrader対応。バックテスト検証、成績公開、環境構築ガイドなど。",
-  title: "プロップ自動攻略",
+  title: "プロップEA攻略",
   ogImage: "og-image.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
