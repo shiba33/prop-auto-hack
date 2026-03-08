@@ -30,6 +30,7 @@ const {
 } = Astro.props;
 
 const socialImageURL = new URL(ogImage, Astro.url);
+socialImageURL.searchParams.set("v", "20260308");
 
 const structuredData = {
   "@context": "https://schema.org",
