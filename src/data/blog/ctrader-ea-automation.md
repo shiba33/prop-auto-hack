@@ -1,5 +1,5 @@
 ---
-title: cTraderで自動売買EAを動かす方法｜コマンドライン運用の実態
+title: cTrader cBot自動売買の始め方｜プロップファームEA運用の実態
 author: はちまき
 pubDatetime: 2026-03-07T16:00:00.000+09:00
 modDatetime:
