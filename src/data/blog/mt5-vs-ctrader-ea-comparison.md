@@ -166,7 +166,7 @@ systemdのRestartポリシーを設定するだけで、基本的な自動復旧
 | プロップファーム | MT5 | cTrader |
 |:---------------|:----|:--------|
 | Fintokei | ✅ | ✅ |
-| FTP（ForTraders） | ✅ | ❌ |
+| FTP（Funded Trading Plus） | ✅ | ❌ |
 | Fundora | ❌ | ✅ |
 | Funded7 | ❌ | ✅ |
 | DarwinexZero | ✅ | ❌ |
